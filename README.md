@@ -1,6 +1,6 @@
 # Liberated Pixel Cup Asset Collection
 
-A collection of FREE 32x32 pixel game graphics. They are mostly collected and categorized from entries to the ["Liberated Pixel Cup" event](https://lpc.opengameart.org) by the [OpenGameArt.org community](https://opengameart.org). The assets contain all graphics needed for a full game: characters, clothes, weapons, terrains, buildings, furniture, and much more.
+A collection of FREE 32x32 pixel game graphics. (Under both CC-BY-SA-4.0 *and* GPL-3.0 licenses.) They are mostly collected and categorized from entries to the ["Liberated Pixel Cup" event](https://lpc.opengameart.org) by the [OpenGameArt.org community](https://opengameart.org). The assets contain all graphics needed for a full game: characters, clothes, weapons, terrains, buildings, furniture, and much more.
 
 ![](documentation/house7.gif) ![](documentation/32x32grid.png)
 
@@ -10,7 +10,7 @@ A collection of FREE 32x32 pixel game graphics. They are mostly collected and ca
 
 Please be aware that this version is still extremely incomplete, but will grow in the next versions.
 
-This is not just a collection of random asset files, but the efford to bring the jungle of awesome but unstructured asset submissions into a cohesive and dependable structure.
+This is not just a collection of random asset files, but the efford to bring the jungle of awesome but *very unstructured* asset submissions into a cohesive and dependable structure.
 A long running, semi-anarchistic project like the Liberated Pixel Cup breeds creativity - and chaos.
 Sorting that chaos and making it usable for game developers is the goal of this collection. 
 
@@ -26,10 +26,11 @@ All graphical assets in this collection are dual-licensed under *both* of these 
 
 `SPDX-License-Identifier: CC-BY-SA-4.0 AND GPL-3.0-only`
 
-A few additional assets were added to the collection that are in the public domain under a CC0 license. Since there is no list of those (yet) you should assume all assets to be under the licenses linked above.
+A few additional assets were added to the collection that the authors released under a public domain license. Since I don't have a list of those (yet) you should assume all assets to be under the licenses above.
 
 ### Contributing
 
 Contributions are welcome!
-Please keep in mind that all assets **have to** be licensed under the licenses above (or a public domain license).
-All graphics have to follow the [Liberated Pixel Cup styleguide](https://lpc.opengameart.org/static/LPC-Style-Guide/build/styleguide.html).
+Please keep in mind these two caveats: 
+All assets **have to** be licensed under *both* of the licenses above (or a public domain license that allows redistribution under the licenses above).
+All graphical assets in this set **have to** follow the [Liberated Pixel Cup styleguide](https://lpc.opengameart.org/static/LPC-Style-Guide/build/styleguide.html).

@@ -3,8 +3,11 @@ Version History
 ===============
 
 
+## 0.0.2 - 2026-06-15
 
-* 0.0.1 - 2026.06.11
+Over a hundred additional character spritesheets.
 
-&#x20;   First steps toward the hopefully final folder structure.
+## 0.0.1 - 2026.06.11
+
+First steps toward the hopefully final folder structure.
 
