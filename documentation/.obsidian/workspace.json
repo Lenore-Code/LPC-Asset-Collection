@@ -15,7 +15,7 @@
               "state": {
                 "file": "Version History.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Version History"
@@ -183,6 +183,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "1ad40df32a1df168",
-  "lastOpenFiles": []
+  "active": "f34a85633a908024",
+  "lastOpenFiles": [
+    "images",
+    "house7.gif",
+    "Version History.md"
+  ]
 }
